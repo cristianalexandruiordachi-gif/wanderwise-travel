@@ -1,5 +1,7 @@
 # WanderWise Travel
 
+Galați Danube photograph: Andymxm, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Danubegalati1.jpg). Display crop only.
+
 A responsive travel recommendation website for the JavaScript Programming Essentials final project.
 
 ## Features
@@ -17,3 +19,5 @@ Open index.html or serve this folder with any static web server. No build step, 
 Photos are remotely hosted by Unsplash and used as illustrative destination imagery. Fonts are served by Google Fonts. Network access is required for those assets.
 
 Angkor Wat photograph: Francesco Bandarin / UNESCO, CC BY-SA 3.0 IGO. Source: https://commons.wikimedia.org/wiki/File:Angkor-112215.jpg . Other photos: Unsplash.
+
+Bucharest photograph: Alessio Damato, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), via https://commons.wikimedia.org/wiki/File:Bucuresti_palatul_parlamentului_view.jpg . Images are displayed cropped by CSS.

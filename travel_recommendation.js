@@ -9,9 +9,10 @@ const destinations = {
   ],
   countries: [
     {name:'Sydney, Australia',imageUrl:'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=85',description:'A sparkling harbor, the Sydney Opera House, and a relaxed outdoor spirit make Australia an inspiring place to explore.',timeZone:'Australia/Sydney'},
-    {name:'Kyoto, Japan',imageUrl:'https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=900&q=85',description:'Discover Japan through Kyoto’s historic lanes, seasonal gardens, and centuries of craftsmanship and hospitality.',timeZone:'Asia/Tokyo'}
+    {name:'Galați, Romania',imageUrl:'https://upload.wikimedia.org/wikipedia/commons/e/e6/Danubegalati1.jpg',description:'Discover Romania in Galați: stroll along the Danube waterfront, enjoy river views, and explore the character of this historic port city.',timeZone:'Europe/Bucharest'}
   ]
 };
+destinations.countries.reverse();
 const input=document.getElementById('search');
 const results=document.getElementById('results');
 const status=document.getElementById('result-status');
