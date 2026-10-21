@@ -15,3 +15,5 @@ A responsive travel recommendation website for the JavaScript Programming Essent
 Open index.html or serve this folder with any static web server. No build step, dependencies, or API keys are required. GitHub Pages can publish the main branch root.
 
 Photos are remotely hosted by Unsplash and used as illustrative destination imagery. Fonts are served by Google Fonts. Network access is required for those assets.
+
+Angkor Wat photograph: Francesco Bandarin / UNESCO, CC BY-SA 3.0 IGO. Source: https://commons.wikimedia.org/wiki/File:Angkor-112215.jpg . Other photos: Unsplash.

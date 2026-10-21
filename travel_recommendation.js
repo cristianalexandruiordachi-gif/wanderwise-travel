@@ -4,7 +4,7 @@ const destinations = {
     {name:'Copacabana, Brazil',imageUrl:'https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?auto=format&fit=crop&w=900&q=85',description:'Discover Rio de Janeiro’s iconic shoreline, a lively oceanfront promenade, and the rhythm of a city beside the sea.',timeZone:'America/Sao_Paulo'}
   ],
   temples: [
-    {name:'Angkor Wat, Cambodia',imageUrl:'https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=900&q=85',description:'Explore the monumental Khmer temple complex near Siem Reap, with carved galleries and unforgettable lotus-shaped towers.',timeZone:'Asia/Phnom_Penh'},
+    {name:'Angkor Wat, Cambodia',imageUrl:'https://upload.wikimedia.org/wikipedia/commons/0/09/Angkor-112215.jpg',description:'Explore the monumental Khmer temple complex near Siem Reap, with carved galleries and unforgettable lotus-shaped towers.',timeZone:'Asia/Phnom_Penh'},
     {name:'Kinkaku-ji, Japan',imageUrl:'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=85',description:'Experience Kyoto’s temple culture, tranquil gardens, and the celebrated Golden Pavilion reflected in its surrounding pond.',timeZone:'Asia/Tokyo'}
   ],
   countries: [
